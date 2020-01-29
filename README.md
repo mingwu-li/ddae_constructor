@@ -15,7 +15,7 @@ The adjoint of the above differential and algebraic equations is constructed as 
 
 
 ## Future work
-The current implementation does not support adaptive mesh. Users have to adjust the mesh manually. The analytical Jacobian of adjoints for coupling condition is not avaliable currently.
+The current implementation does not support adaptive mesh. Users have to adjust the mesh manually. The analytical Jacobian of adjoints are not avaliable currently.
 
 ## Questions? 
 If you have any questions about the toolbox, including how to use it, and bug report, please reach me at mingwul2@illinois.edu. If you have interest in further development of the toolbox and implementation details of the toolbox, I would like to share you formulations and other details.
